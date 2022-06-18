@@ -52,7 +52,7 @@ function Square(props){
    return table; 
    }
      
-    //misericordia é necessário e amor tambem
+
     render() {   
       return (
         <div> 
@@ -181,11 +181,5 @@ function Square(props){
   
   const root = ReactDOM.createRoot(document.getElementById("root"));
   root.render(<Game />);
-  /* E então a bela moçã tocou na rosa que eu entreguei em suas mãos
-  suaves e pequenas, ela olhou fixamente para ela, talvez espantanda
-  pela tom incrivelmente vermelho daquela flor recem colhida, eu esperei
-  ela ir embora até não poder mais ve-la pela distancia , não sei se aprovou 
-  meu gesto ou se odiou aquela rosa vermelha, mas sei que mesmo nos momentos
-  mais dificeis da vida, ela lembrará desse monento embaraçoso.
-   */
+  
 
